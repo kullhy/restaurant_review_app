@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCpFmfYf_tjcEg__3hV9Hltb_D4mxCVf8g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>207768911045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.restaurantReviewApp</string>
+	<key>PROJECT_ID</key>
+	<string>restaurant-review-6c611</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurant-review-6c611.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:207768911045:ios:3e619b3f0aa55e879d84ac</string>
+</dict>
+</plist>
